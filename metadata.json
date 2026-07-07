@@ -1,0 +1,6 @@
+{
+  "name": "Real Estate AI Copilot",
+  "description": "AI-powered property search, valuation, and market insights copilot",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
