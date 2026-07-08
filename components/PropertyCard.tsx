@@ -1,3 +1,5 @@
+'use client';
+
 import React from 'react';
 import { Property, formatINR } from '@/lib/properties';
 import { Bed, Bath, Square, MapPin, Bookmark, Sparkles, TrendingUp } from 'lucide-react';

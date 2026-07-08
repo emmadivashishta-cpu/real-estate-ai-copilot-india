@@ -1,3 +1,5 @@
+'use client';
+
 import React from 'react';
 import { Home, Building2, Bot, Bookmark, Sparkles, User } from 'lucide-react';
 

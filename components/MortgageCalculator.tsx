@@ -1,3 +1,5 @@
+'use client';
+
 import React, { useState } from 'react';
 import { formatINR, formatINRFull } from '@/lib/properties';
 import { Calculator, TrendingUp, Sparkles } from 'lucide-react';

@@ -1,3 +1,5 @@
+'use client';
+
 import React, { useState, useEffect, useRef } from 'react';
 import { Bot, Send, User, Sparkles, Building2, HelpCircle } from 'lucide-react';
 import { AI_COPILOT_QA } from '@/lib/properties';

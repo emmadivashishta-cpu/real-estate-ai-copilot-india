@@ -1,3 +1,5 @@
+'use client';
+
 import React, { useState } from 'react';
 import { Property, formatINR, formatINRFull } from '@/lib/properties';
 import { X, Bed, Bath, Square, MapPin, Sparkles, TrendingUp, ShieldCheck, Compass, Calculator } from 'lucide-react';
